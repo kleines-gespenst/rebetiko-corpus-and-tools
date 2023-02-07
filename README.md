@@ -1,6 +1,6 @@
 # Rebetiko Corpus and Tools
 
-This repository contains the rebetiko corpus, subcorpora and supporting tools, as used in my Master's thesis "Rebetiko meets Digital Humanities. Automatic analysis of Rebetiko Lyrics via Data science methods", which was submitted at the University of Vienna (Department of Byzantine and Modern Greek Studies).
+This repository contains the rebetiko corpus, subcorpora and supporting tools, as used in my Master's thesis "Rebetiko meets Digital Humanities. Automatic analysis of Rebetiko Lyrics via Data science methods", which was submitted at the University of Vienna (Department of Byzantine and Modern Greek Studies). The text of the master's thesis is available at https://utheses.univie.ac.at/detail/62589/.
 
 The rebetiko corpus is a dataset of rebetiko songs, including lyrics and metadata. It contains 5,165 songs, of which 3,772 songs are provided with song lyrics. The metadata include the song title, source page name, release year, instrumentation, names of the involved artists (composer, lyricist, instrument player(s) and singer(s)), disc number, dance (rhythm) and location of recording. Both the metadata and lyrics are in Modern Greek. The Rebetiko Corpus is based on data available at https://rebetiko.sealabs.net, and these data were manually verified.
 
